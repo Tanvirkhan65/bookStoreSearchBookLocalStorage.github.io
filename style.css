@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  font-size: 3.5rem;
+}
+td{
+  font-size:2.5rem;
+}
+.success,.error {
+  
+  color: white;
+  padding: 10px;
+  margin: 10px 0 15px 0;
+  font-size: xx-large;
+  text-align: center;
+}
+.success{
+    background: green;
+}
+.error{
+    background: red;
+}
